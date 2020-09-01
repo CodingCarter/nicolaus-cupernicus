@@ -41,15 +41,6 @@ export default {};
 </script>
 
 <style lang="scss">
-.fade-enter {
-  transform: translateY(0);
-  opacity: 0;
-}
-
-.fade-enter-leave {
-  transition: 200ms ease;
-}
-
 .model-page {
   width: 100%;
   height: 100vh;

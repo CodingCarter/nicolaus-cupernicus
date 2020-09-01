@@ -29,12 +29,12 @@ export default {
 
 <style lang="scss">
 .fade-enter-active {
-  transform: scale(1);
+  transform: translateY(0);
   transition: 500ms ease;
 }
 
 .fade-enter {
-  transform: scale(2);
+  transform: translateY(2rem) scale(0.975);
   opacity: 0;
 }
 

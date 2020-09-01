@@ -2,7 +2,7 @@
   <main class="hero">
     <div class="content">
       <h1>
-        Greetings, my name is Nickolaus Cupernicus and I am an accomplished
+        Greetings, my name is Nicolaus Copernicus and I am an accomplished
         mathemetician and astronomer.
       </h1>
       <g-link to="/works/">View my works and achievements</g-link>
