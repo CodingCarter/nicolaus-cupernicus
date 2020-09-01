@@ -58,6 +58,7 @@ footer {
 
     p {
       font-size: 1.15rem;
+      line-height: 1.75;
 
       a {
         color: inherit;
