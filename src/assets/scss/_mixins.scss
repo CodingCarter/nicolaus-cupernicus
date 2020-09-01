@@ -1,0 +1,4 @@
+@mixin sidePadding {
+  width: calc(100% - 10rem);
+  padding: 1rem 5rem;
+}
