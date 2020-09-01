@@ -41,6 +41,10 @@ export default {};
 </script>
 
 <style lang="scss">
+footer {
+  display: none !important;
+}
+
 .model-page {
   width: 100%;
   height: 100vh;

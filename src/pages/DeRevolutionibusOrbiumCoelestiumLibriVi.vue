@@ -19,7 +19,7 @@
           deeper into some of the aspects within the manuscript. A large part of
           the book was finished by the 1530s, but despite numerous requests to
           publish, I was still not ready. In 1539, a young mathematician named
-          Georg Joachim Rheticus went to my current city, Frauenburg, Germany to
+          Georg Joachim Rheticus went to my current city, Frauenburg, Poland to
           study with me. The man read my unpublished version of my book and
           wrote a summary of the manuscript at which he sent to my old astrology
           teacher from Nuernberg. The letter was later published. After seeing
@@ -27,7 +27,10 @@
           agreed to publish my book as
           <em>De revolutionibus orbium coelestium libri vi</em>, or the more
           common translation "Six Books Concerning the Revolutions of the
-          Heavenly Orbs".
+          Heavenly Orbs". My book actually did not do amazing after being
+          published. It was not until Galileo Galilei supported the book and its
+          different ideas with his own observations that the world started to
+          change its mind.
         </p>
         <g-image src="/img/book.jpg" />
       </div>

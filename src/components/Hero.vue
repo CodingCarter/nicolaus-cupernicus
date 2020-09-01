@@ -14,6 +14,7 @@
 <style lang="scss" scoped>
 .hero {
   background: $bg-primary;
+  min-height: 90vh;
 
   .content {
     @include sidePadding;

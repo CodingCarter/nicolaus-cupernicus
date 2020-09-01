@@ -7,7 +7,7 @@
         </h1>
         <div class="projects">
           <WorkCard
-            title="Reestablished Heliocentrism (sun-centered solar system)"
+            title="Re-established Heliocentrism (sun-centered solar system)"
             image="heliocentrism.jpg"
             to="/model/"
           />

@@ -4,8 +4,9 @@
 
     <nav>
       <g-link to="/">Home</g-link>
+      <g-link to="/#about">About</g-link>
       <g-link to="/works/">Works & Achievements</g-link>
-      <g-link to="/education/">Education</g-link>
+      <g-link to="/sources/">Sources</g-link>
       <!-- <g-link to="/model/">Solar System Model</g-link> -->
     </nav>
   </header>
@@ -24,7 +25,7 @@ header {
   @include sidePadding;
 
   nav a {
-    padding: 1rem;
+    padding: 1rem 0.75rem;
     color: inherit;
     text-decoration: none;
     font-size: 1.1rem;
