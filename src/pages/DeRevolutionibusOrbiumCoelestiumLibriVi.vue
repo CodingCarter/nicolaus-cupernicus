@@ -33,6 +33,9 @@
           change its mind.
         </p>
         <g-image src="/img/book.jpg" />
+        <g-image
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Copernicus-an-Herzog-Albrecht.png/255px-Copernicus-an-Herzog-Albrecht.png"
+        />
       </div>
     </div>
   </Layout>
